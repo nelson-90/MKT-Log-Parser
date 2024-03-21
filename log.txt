@@ -1,0 +1,1 @@
+Jan  1 00:00:00 192.168.1.1 firewall,info RULE: NAME_RULE forward: in:ether1 out:ether2, src-mac 00:00:00:00:00:00, proto TCP (SYN), 192.168.1.1:52539->192.168.1.100:80, len 52
