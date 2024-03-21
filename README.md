@@ -6,9 +6,9 @@ Export your mikrotik firewall log as log.txt.
 Replace log.txt with the fresh export
 Execute the program
 
-´´´bash
+```bash
 python3 filter.py
-´´´
+```
 
 Select one of the menu options:
 
