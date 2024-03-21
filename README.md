@@ -19,6 +19,6 @@ Select one of the menu options:
 * 3- Parses log.txt entrys that match with a keyword as ***DATE | SRC_IP | DST_IP | PROTOCOL | DST_PORT | OCURRENCES***
             Generates 2 files: filtered_log.txt and result{keyword}.txt
 * 4- Parses log.txt entrys that match with a keyword as ***SRC_IP | DST_IP | PROTOCOL | DST_PORTS***
-            Generates 2 files: filtered_log.txt and mapeo'{keyword}.txt
+            Generates 2 files: filtered_log.txt and mapeo{keyword}.txt
 * 5- Shows help in spanish
 * 0- Closes the program
